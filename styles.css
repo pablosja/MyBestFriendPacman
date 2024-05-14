@@ -12,6 +12,20 @@ h1 {
     color: yellow;
 }
 
+
+#banner {
+    max-width: 300px;
+    padding-left:
+}
+
+#pacmanlogo {
+    max-width: 100px;
+}
+
 #pacmanpic {
+    max-width: 100px;
+}
+
+#ghost {
     max-width: 100px;
 }
